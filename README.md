@@ -7,3 +7,12 @@
 
 ![Yokoshen GitHub states](https://github-readme-states.vercel.app/api?username=yokoshen&show_icons=true&theme=dracula)
 
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+  <img align="center" alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+  <img align="center" alt="C#" src="https://img.shields.io/badge/CODE-%3C.NET%204.8%3E%20%3CUnity%202019.2.2f1%3E%20%3CC%23%3E-blue?style=plastic" />
+  <img align="center" alt="MySQL" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
+  <img align="center" alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" />
+</div><br/>
+
