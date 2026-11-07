@@ -8,9 +8,9 @@
 
 ---
 
-## 📊 Minha atividade no GitHub
+## 📈 Atividade no GitHub
 
-![GitHub Stats](https://ghstats.dev/api/card?username=yokoshen&theme=dracula)
+[![GitHub Activity](https://gitshine.com/card/yokoshen)](https://gitshine.com/stats/yokoshen)
 
 ---
 
