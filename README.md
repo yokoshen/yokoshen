@@ -10,7 +10,7 @@
 
 ## 📊 Minha atividade no GitHub
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yokoshen&theme=dracula&hide_border=true&area=true)](https://github.com/yokoshen)
+![GitHub Stats](https://ghstats.dev/api/card?username=yokoshen&theme=dracula)
 
 ---
 
